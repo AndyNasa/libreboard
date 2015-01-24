@@ -1,6 +1,6 @@
 # We'll be back
 
-We received a DMCA takedown notice from github regarding our user interface.
+We received a DMCA takedown notice from Github regarding our user interface.
 We'll be back with a new UI in the next LibreBoard release (join
 [this thread][new-ui] if you would like to help).
 
@@ -8,7 +8,7 @@ We'll be back with a new UI in the next LibreBoard release (join
 
 LibreBoard is an open-source *kanban* board that let you organize things in
 cards, and cards in lists. You can use it alone, or with your team and family
-thanks to our real-time synchronisation feature. Libreboard is a land of liberty
+thanks to our real-time synchronization feature. Libreboard is a land of liberty
 and you can implement all sort of workflows on it using tags, comments, member
 assignation, and many more.
 
